@@ -1,0 +1,2 @@
+from text_to_speech import save
+save("My name is Javeria. I am currently pursuing my BS in Software Engineering from the University of Agriculture. I am a passionate Python developer and possess knowledge of HTML and CSS. Alongside my studies, I am actively engaged in learning about machine learning to step into the world of artificial intelligence.", "en", file="Hello-World.mp3")
